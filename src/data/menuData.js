@@ -6,7 +6,7 @@ export const menuData = [
         "id": "brakfast-1",
         "name": {
           "en": "Normal chechbesa",
-          "am": "ቼቅብሳ"
+          "am": "ጨጨብሳ"
         },
         "description": {
           "en": "",
@@ -27,7 +27,7 @@ export const menuData = [
       {
         "id": "brakfast-2",
         "name": {
-          "en": "Normal fir firifir",
+          "en": "Normal Firfir",
           "am": "ፍርፍር"
         },
         "description": {
@@ -50,7 +50,7 @@ export const menuData = [
         "id": "brakfast-3",
         "name": {
           "en": "Kinche",
-          "am": "ቅንጭት"
+          "am": "ቅንጬ"
         },
         "description": {
           "en": "",
@@ -72,7 +72,7 @@ export const menuData = [
         "id": "brakfast-4",
         "name": {
           "en": "Spatial chechbsa",
-          "am": "ልዩ ቼቅብሳ"
+          "am": "ልዩ ጨጨብሳ"
         },
         "description": {
           "en": "",
@@ -94,7 +94,7 @@ export const menuData = [
         "id": "brakfast-5",
         "name": {
           "en": "Special kincha",
-          "am": "ልዩ ቅንጭት"
+          "am": "ልዩ ቅንጬ"
         },
         "description": {
           "en": "",
@@ -248,7 +248,7 @@ export const menuData = [
         "id": "brakfast-12",
         "name": {
           "en": "Scramble egg",
-          "am": "ቅቅል እንቁላል"
+          "am": "እንቁላል ፍርፍር"
         },
         "description": {
           "en": "",
@@ -269,7 +269,7 @@ export const menuData = [
       {
         "id": "brakfast-13",
         "name": {
-          "en": "Tuna Fir Firifir",
+          "en": "Tuna Firfir",
           "am": "ቱና ፍርፍር"
         },
         "description": {
@@ -385,7 +385,7 @@ export const menuData = [
         "id": "pasta-1",
         "name": {
           "en": "Spaghetti with Tomato Sauce",
-          "am": "ስፓጌቲ ከቲማቲም ሾርባ ጋር"
+          "am": "ስፓጌቲ ከቲማቲም ሶስ ጋር"
         },
         "description": {
           "en": "",
@@ -407,7 +407,7 @@ export const menuData = [
         "id": "pasta-2",
         "name": {
           "en": "Spaghetti with Meat Sauce",
-          "am": "ስፓጌቲ ከሥጋ ሾርባ ጋር"
+          "am": "ስፓጌቲ ከሥጋ ሶስ ጋር"
         },
         "description": {
           "en": "",
@@ -451,7 +451,7 @@ export const menuData = [
         "id": "pasta-4",
         "name": {
           "en": "Spaghetti with Tuna Sauce",
-          "am": "ስፓጌቲ ከቱና ሾርባ ጋር"
+          "am": "ስፓጌቲ ከቱና ሶስ ጋር"
         },
         "description": {
           "en": "",
@@ -473,7 +473,7 @@ export const menuData = [
         "id": "pasta-5",
         "name": {
           "en": "Tagliatelle with Bolognas Sauce",
-          "am": "ታልያቴሌ ከቦሎኛ ሾርባ ጋር"
+          "am": "ታልያቴሌ ከቦሎኛ ሶስ ጋር"
         },
         "description": {
           "en": "",
@@ -522,7 +522,7 @@ export const menuData = [
         "id": "burger-1",
         "name": {
           "en": "Beef Burger",
-          "am": "በሬ በርገር"
+          "am": "ቢፍ  በርገር"
         },
         "description": {
           "en": "",
@@ -565,7 +565,7 @@ export const menuData = [
       {
         "id": "burger-3",
         "name": {
-          "en": "Especial Burger",
+          "en": "SpecialBurger",
           "am": "ልዩ በርገር"
         },
         "description": {
@@ -588,7 +588,7 @@ export const menuData = [
         "id": "burger-4",
         "name": {
           "en": "Double Burger",
-          "am": "ድርብ በርገር"
+          "am": "ዳብል በርገር"
         },
         "description": {
           "en": "",
@@ -724,7 +724,7 @@ export const menuData = [
       {
         "id": "pizza-6",
         "name": {
-          "en": "Especial Pizza",
+          "en": "SpecialPizza",
           "am": "ልዩ ፒዛ"
         },
         "description": {
@@ -747,7 +747,7 @@ export const menuData = [
         "id": "pizza-7",
         "name": {
           "en": "Beef Pizza",
-          "am": "በሬ ፒዛ"
+          "am": "ቢፍ  ፒዛ"
         },
         "description": {
           "en": "",
@@ -796,7 +796,7 @@ export const menuData = [
         "id": "sandwich-2",
         "name": {
           "en": "Beef Club Sandwich",
-          "am": "በሬ ክለብ ሳንድዊች"
+          "am": "ቢፍ  ክለብ ሳንድዊች"
         },
         "description": {
           "en": "",
@@ -1016,7 +1016,7 @@ export const menuData = [
         "id": "sandwich-12",
         "name": {
           "en": "Beef Steak Sandwich",
-          "am": "በሬ ስቲክ ሳንድዊች"
+          "am": "ቢፍ  ስቴክ ሳንድዊች"
         },
         "description": {
           "en": "",
@@ -1038,7 +1038,7 @@ export const menuData = [
         "id": "sandwich-13",
         "name": {
           "en": "Chicken Steak Sandwich",
-          "am": "ዶሮ ስቲክ ሳንድዊች"
+          "am": "ዶሮ ስቴክ ሳንድዊች"
         },
         "description": {
           "en": "",
@@ -1109,7 +1109,7 @@ export const menuData = [
         "id": "wrap-3",
         "name": {
           "en": "Beef Wrap",
-          "am": "በሬ ራፕ"
+          "am": "ቢፍ  ራፕ"
         },
         "description": {
           "en": "",
@@ -1202,7 +1202,7 @@ export const menuData = [
         "id": "fish-3",
         "name": {
           "en": "Fish Cutlet",
-          "am": "ዓሣ ቅርጫት"
+          "am": "ዓሣ ኮትሌት"
         },
         "description": {
           "en": "",
@@ -1767,7 +1767,7 @@ export const menuData = [
         "id": "juice-9",
         "name": {
           "en": "Banana Milk Shake",
-          "am": "ሙዝ ማይልክ ሼክ"
+          "am": "ሙዝ ሚልክሼክ"
         },
         "description": {
           "en": "",
@@ -1811,7 +1811,7 @@ export const menuData = [
         "id": "juice-11",
         "name": {
           "en": "Strawberry Milk Shake",
-          "am": "ስትሮቤሪ ማይልክ ሼክ"
+          "am": "ስትሮቤሪ ሚልክሼክ"
         },
         "description": {
           "en": "",
@@ -1948,7 +1948,7 @@ export const menuData = [
         "id": "yogurt-3",
         "name": {
           "en": "Yogurt with Strawberry Syrup",
-          "am": "እርጎ ከስትሮቤሪ ሽሮፕ ጋር"
+          "am": "እርጎ ከስትሮቤሪ ሲራፕ ጋር"
         },
         "description": {
           "en": "",
@@ -1970,7 +1970,7 @@ export const menuData = [
         "id": "yogurt-4",
         "name": {
           "en": "Yogurt with Chocolate Syrup",
-          "am": "እርጎ ከቸኮሌት ሽሮፕ ጋር"
+          "am": "እርጎ ከቸኮሌት ሲራፕ ጋር"
         },
         "description": {
           "en": "",

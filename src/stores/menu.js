@@ -8,7 +8,7 @@ export const useMenuStore = defineStore('menu', () => {
   // Translations
   const translations = computed(() => ({
     en: {
-      restaurantName: 'Romanat Restaurant',
+      restaurantName: 'Romanat Addis Hotel',
       categories: {
         brakfast: 'Breakfast',
         pasta: 'Pasta',
@@ -29,7 +29,7 @@ export const useMenuStore = defineStore('menu', () => {
       }
     },
     am: {
-      restaurantName: 'ሮማናት ሬስቶራንት',
+      restaurantName: 'ሮማናት አዲስ ሆቴል',
       categories: {
         brakfast: 'ቁርስ',
         pasta: 'ፓስታ',
