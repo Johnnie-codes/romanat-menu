@@ -6,7 +6,7 @@ export const menuData = [
         "id": "brakfast-1",
         "name": {
           "en": "Normal chechbesa",
-          "am": "Normal chechbesa"
+          "am": "ቼቅብሳ"
         },
         "description": {
           "en": "",
@@ -28,7 +28,7 @@ export const menuData = [
         "id": "brakfast-2",
         "name": {
           "en": "Normal fir firifir",
-          "am": "Normal fir firifir"
+          "am": "ፍርፍር"
         },
         "description": {
           "en": "",
@@ -50,7 +50,7 @@ export const menuData = [
         "id": "brakfast-3",
         "name": {
           "en": "Kinche",
-          "am": "Kinche"
+          "am": "ቅንጭት"
         },
         "description": {
           "en": "",
@@ -72,7 +72,7 @@ export const menuData = [
         "id": "brakfast-4",
         "name": {
           "en": "Spatial chechbsa",
-          "am": "Spatial chechbsa"
+          "am": "ልዩ ቼቅብሳ"
         },
         "description": {
           "en": "",
@@ -94,7 +94,7 @@ export const menuData = [
         "id": "brakfast-5",
         "name": {
           "en": "Special kincha",
-          "am": "Special kincha"
+          "am": "ልዩ ቅንጭት"
         },
         "description": {
           "en": "",
@@ -116,7 +116,7 @@ export const menuData = [
         "id": "brakfast-6",
         "name": {
           "en": "Shaksuka",
-          "am": "Shaksuka"
+          "am": "ሻክሹካ"
         },
         "description": {
           "en": "",
@@ -138,7 +138,7 @@ export const menuData = [
         "id": "brakfast-7",
         "name": {
           "en": "Tibes Fir Fir With egg",
-          "am": "Tibes Fir Fir With egg"
+          "am": "ጥብስ ፍርፍር ከእንቁላል ጋር"
         },
         "description": {
           "en": "",
@@ -160,7 +160,7 @@ export const menuData = [
         "id": "brakfast-8",
         "name": {
           "en": "Quanta Fir fir",
-          "am": "Quanta Fir fir"
+          "am": "ቋንጣ ፍርፍር"
         },
         "description": {
           "en": "",
@@ -182,7 +182,7 @@ export const menuData = [
         "id": "brakfast-9",
         "name": {
           "en": "Omelet",
-          "am": "Omelet"
+          "am": "ኦሜሌት"
         },
         "description": {
           "en": "",
@@ -204,7 +204,7 @@ export const menuData = [
         "id": "brakfast-10",
         "name": {
           "en": "Special Omelet",
-          "am": "Special Omelet"
+          "am": "ልዩ ኦሜሌት"
         },
         "description": {
           "en": "",
@@ -226,7 +226,7 @@ export const menuData = [
         "id": "brakfast-11",
         "name": {
           "en": "Special pan cake",
-          "am": "Special pan cake"
+          "am": "ልዩ ፓንኬክ"
         },
         "description": {
           "en": "",
@@ -248,7 +248,7 @@ export const menuData = [
         "id": "brakfast-12",
         "name": {
           "en": "Scramble egg",
-          "am": "Scramble egg"
+          "am": "ቅቅል እንቁላል"
         },
         "description": {
           "en": "",
@@ -270,7 +270,7 @@ export const menuData = [
         "id": "brakfast-13",
         "name": {
           "en": "Tuna Fir Firifir",
-          "am": "Tuna Fir Firifir"
+          "am": "ቱና ፍርፍር"
         },
         "description": {
           "en": "",
@@ -292,7 +292,7 @@ export const menuData = [
         "id": "brakfast-14",
         "name": {
           "en": "Pan cake",
-          "am": "Pan cake"
+          "am": "ፓንኬክ"
         },
         "description": {
           "en": "",
@@ -314,7 +314,7 @@ export const menuData = [
         "id": "brakfast-15",
         "name": {
           "en": "Normal full",
-          "am": "Normal full"
+          "am": "ሙሉ ቁርስ"
         },
         "description": {
           "en": "",
@@ -336,7 +336,7 @@ export const menuData = [
         "id": "brakfast-16",
         "name": {
           "en": "Special foul",
-          "am": "Special foul"
+          "am": "ልዩ ፉል"
         },
         "description": {
           "en": "",
@@ -358,7 +358,7 @@ export const menuData = [
         "id": "brakfast-17",
         "name": {
           "en": "CONTINENTAL BREAKFAST",
-          "am": "CONTINENTAL BREAKFAST"
+          "am": "አህጉራዊ ቁርስ"
         },
         "description": {
           "en": "",
@@ -385,7 +385,7 @@ export const menuData = [
         "id": "pasta-1",
         "name": {
           "en": "Spaghetti with Tomato Sauce",
-          "am": "Spaghetti with Tomato Sauce"
+          "am": "ስፓጌቲ ከቲማቲም ሾርባ ጋር"
         },
         "description": {
           "en": "",
@@ -407,13 +407,13 @@ export const menuData = [
         "id": "pasta-2",
         "name": {
           "en": "Spaghetti with Meat Sauce",
-          "am": "Spaghetti with Meat Sauce"
+          "am": "ስፓጌቲ ከሥጋ ሾርባ ጋር"
         },
         "description": {
           "en": "",
           "am": ""
         },
-        "price": 696.05,
+        "price": 716.83,
         "image": null,
         "dietary": {
           "vegetarian": false,
@@ -429,7 +429,7 @@ export const menuData = [
         "id": "pasta-3",
         "name": {
           "en": "Spaghetti with Vegetables",
-          "am": "Spaghetti with Vegetables"
+          "am": "ስፓጌቲ ከአትክልት ጋር"
         },
         "description": {
           "en": "",
@@ -451,7 +451,7 @@ export const menuData = [
         "id": "pasta-4",
         "name": {
           "en": "Spaghetti with Tuna Sauce",
-          "am": "Spaghetti with Tuna Sauce"
+          "am": "ስፓጌቲ ከቱና ሾርባ ጋር"
         },
         "description": {
           "en": "",
@@ -473,13 +473,13 @@ export const menuData = [
         "id": "pasta-5",
         "name": {
           "en": "Tagliatelle with Bolognas Sauce",
-          "am": "Tagliatelle with Bolognas Sauce"
+          "am": "ታልያቴሌ ከቦሎኛ ሾርባ ጋር"
         },
         "description": {
           "en": "",
           "am": ""
         },
-        "price": 797.96,
+        "price": 833.54,
         "image": null,
         "dietary": {
           "vegetarian": false,
@@ -495,13 +495,13 @@ export const menuData = [
         "id": "pasta-6",
         "name": {
           "en": "Lasagna",
-          "am": "Lasagna"
+          "am": "ላዛኛ"
         },
         "description": {
           "en": "",
           "am": ""
         },
-        "price": 887.95,
+        "price": 998.94,
         "image": null,
         "dietary": {
           "vegetarian": false,
@@ -522,7 +522,7 @@ export const menuData = [
         "id": "burger-1",
         "name": {
           "en": "Beef Burger",
-          "am": "Beef Burger"
+          "am": "በሬ በርገር"
         },
         "description": {
           "en": "",
@@ -544,7 +544,7 @@ export const menuData = [
         "id": "burger-2",
         "name": {
           "en": "Cheese Burger",
-          "am": "Cheese Burger"
+          "am": "ቼዝ በርገር"
         },
         "description": {
           "en": "",
@@ -566,7 +566,7 @@ export const menuData = [
         "id": "burger-3",
         "name": {
           "en": "Especial Burger",
-          "am": "Especial Burger"
+          "am": "ልዩ በርገር"
         },
         "description": {
           "en": "",
@@ -588,7 +588,7 @@ export const menuData = [
         "id": "burger-4",
         "name": {
           "en": "Double Burger",
-          "am": "Double Burger"
+          "am": "ድርብ በርገር"
         },
         "description": {
           "en": "",
@@ -615,13 +615,13 @@ export const menuData = [
         "id": "pizza-1",
         "name": {
           "en": "Chicken Pizza",
-          "am": "Chicken Pizza"
+          "am": "ዶሮ ፒዛ"
         },
         "description": {
           "en": "",
           "am": ""
         },
-        "price": 855.67,
+        "price": 941.24,
         "image": null,
         "dietary": {
           "vegetarian": false,
@@ -637,7 +637,7 @@ export const menuData = [
         "id": "pizza-2",
         "name": {
           "en": "Marguerites Pizza",
-          "am": "Marguerites Pizza"
+          "am": "ማርጌሪታ ፒዛ"
         },
         "description": {
           "en": "",
@@ -659,7 +659,7 @@ export const menuData = [
         "id": "pizza-3",
         "name": {
           "en": "Tuna Pizza",
-          "am": "Tuna Pizza"
+          "am": "ቱና ፒዛ"
         },
         "description": {
           "en": "",
@@ -681,7 +681,7 @@ export const menuData = [
         "id": "pizza-4",
         "name": {
           "en": "Fasting Tuna Pizza",
-          "am": "Fasting Tuna Pizza"
+          "am": "የጾም ቱና ፒዛ"
         },
         "description": {
           "en": "",
@@ -703,7 +703,7 @@ export const menuData = [
         "id": "pizza-5",
         "name": {
           "en": "Vegetable Pizza",
-          "am": "Vegetable Pizza"
+          "am": "አትክልት ፒዛ"
         },
         "description": {
           "en": "",
@@ -725,13 +725,35 @@ export const menuData = [
         "id": "pizza-6",
         "name": {
           "en": "Especial Pizza",
-          "am": "Especial Pizza"
+          "am": "ልዩ ፒዛ"
         },
         "description": {
           "en": "",
           "am": ""
         },
         "price": 1131.54,
+        "image": null,
+        "dietary": {
+          "vegetarian": false,
+          "vegan": false,
+          "glutenFree": false
+        },
+        "spicyLevel": 0,
+        "tags": [],
+        "allergens": [],
+        "isAvailable": true
+      },
+      {
+        "id": "pizza-7",
+        "name": {
+          "en": "Beef Pizza",
+          "am": "በሬ ፒዛ"
+        },
+        "description": {
+          "en": "",
+          "am": ""
+        },
+        "price": 1357.85,
         "image": null,
         "dietary": {
           "vegetarian": false,
@@ -752,7 +774,7 @@ export const menuData = [
         "id": "sandwich-1",
         "name": {
           "en": "Chicken Club Sandwich",
-          "am": "Chicken Club Sandwich"
+          "am": "ዶሮ ክለብ ሳንድዊች"
         },
         "description": {
           "en": "",
@@ -774,7 +796,7 @@ export const menuData = [
         "id": "sandwich-2",
         "name": {
           "en": "Beef Club Sandwich",
-          "am": "Beef Club Sandwich"
+          "am": "በሬ ክለብ ሳንድዊች"
         },
         "description": {
           "en": "",
@@ -796,7 +818,7 @@ export const menuData = [
         "id": "sandwich-3",
         "name": {
           "en": "Egg Sandwich",
-          "am": "Egg Sandwich"
+          "am": "እንቁላል ሳንድዊች"
         },
         "description": {
           "en": "",
@@ -818,7 +840,7 @@ export const menuData = [
         "id": "sandwich-4",
         "name": {
           "en": "Croissant Sandwich",
-          "am": "Croissant Sandwich"
+          "am": "ክሮይሰንት ሳንድዊች"
         },
         "description": {
           "en": "",
@@ -840,7 +862,7 @@ export const menuData = [
         "id": "sandwich-5",
         "name": {
           "en": "Tuna Sandwich",
-          "am": "Tuna Sandwich"
+          "am": "ቱና ሳንድዊች"
         },
         "description": {
           "en": "",
@@ -862,7 +884,7 @@ export const menuData = [
         "id": "sandwich-6",
         "name": {
           "en": "Vegetable Sandwich",
-          "am": "Vegetable Sandwich"
+          "am": "አትክልት ሳንድዊች"
         },
         "description": {
           "en": "",
@@ -884,7 +906,7 @@ export const menuData = [
         "id": "sandwich-7",
         "name": {
           "en": "Chicken Sandwich",
-          "am": "Chicken Sandwich"
+          "am": "ዶሮ ሳንድዊች"
         },
         "description": {
           "en": "",
@@ -906,7 +928,7 @@ export const menuData = [
         "id": "sandwich-8",
         "name": {
           "en": "Avocado Toast",
-          "am": "Avocado Toast"
+          "am": "አቮካዶ ቶስት"
         },
         "description": {
           "en": "",
@@ -928,7 +950,7 @@ export const menuData = [
         "id": "sandwich-9",
         "name": {
           "en": "Sambusa with Misir Chips",
-          "am": "Sambusa with Misir Chips"
+          "am": "ሳምቡሳ ከምስር ቺፕስ ጋር"
         },
         "description": {
           "en": "",
@@ -950,7 +972,7 @@ export const menuData = [
         "id": "sandwich-10",
         "name": {
           "en": "Sambusa with Meet Chips",
-          "am": "Sambusa with Meet Chips"
+          "am": "ሳምቡሳ ከሥጋ ቺፕስ ጋር"
         },
         "description": {
           "en": "",
@@ -972,7 +994,7 @@ export const menuData = [
         "id": "sandwich-11",
         "name": {
           "en": "Non Fasting Avocado Toast",
-          "am": "Non Fasting Avocado Toast"
+          "am": "የሥጋ አቮካዶ ቶስት"
         },
         "description": {
           "en": "",
@@ -994,13 +1016,13 @@ export const menuData = [
         "id": "sandwich-12",
         "name": {
           "en": "Beef Steak Sandwich",
-          "am": "Beef Steak Sandwich"
+          "am": "በሬ ስቲክ ሳንድዊች"
         },
         "description": {
           "en": "",
           "am": ""
         },
-        "price": 882.72,
+        "price": 993.06,
         "image": null,
         "dietary": {
           "vegetarian": false,
@@ -1016,7 +1038,7 @@ export const menuData = [
         "id": "sandwich-13",
         "name": {
           "en": "Chicken Steak Sandwich",
-          "am": "Chicken Steak Sandwich"
+          "am": "ዶሮ ስቲክ ሳንድዊች"
         },
         "description": {
           "en": "",
@@ -1043,7 +1065,7 @@ export const menuData = [
         "id": "wrap-1",
         "name": {
           "en": "Vegetable Wrap",
-          "am": "Vegetable Wrap"
+          "am": "አትክልት ራፕ"
         },
         "description": {
           "en": "",
@@ -1065,13 +1087,13 @@ export const menuData = [
         "id": "wrap-2",
         "name": {
           "en": "Chicken Wrap",
-          "am": "Chicken Wrap"
+          "am": "ዶሮ ራፕ"
         },
         "description": {
           "en": "",
           "am": ""
         },
-        "price": 777.34,
+        "price": 848.01,
         "image": null,
         "dietary": {
           "vegetarian": false,
@@ -1087,13 +1109,13 @@ export const menuData = [
         "id": "wrap-3",
         "name": {
           "en": "Beef Wrap",
-          "am": "Beef Wrap"
+          "am": "በሬ ራፕ"
         },
         "description": {
           "en": "",
           "am": ""
         },
-        "price": 799.1,
+        "price": 871.75,
         "image": null,
         "dietary": {
           "vegetarian": false,
@@ -1109,7 +1131,7 @@ export const menuData = [
         "id": "wrap-4",
         "name": {
           "en": "Romanat special wrap",
-          "am": "Romanat special wrap"
+          "am": "ሮማናት ልዩ ራፕ"
         },
         "description": {
           "en": "",
@@ -1136,7 +1158,7 @@ export const menuData = [
         "id": "fish-1",
         "name": {
           "en": "Grilled Nil Perch",
-          "am": "Grilled Nil Perch"
+          "am": "ግሪል ናይል ፐርች"
         },
         "description": {
           "en": "",
@@ -1158,13 +1180,13 @@ export const menuData = [
         "id": "fish-2",
         "name": {
           "en": "Fish dulet",
-          "am": "Fish dulet"
+          "am": "ዓሣ ዱለት"
         },
         "description": {
           "en": "",
           "am": ""
         },
-        "price": 595.51,
+        "price": 669.94,
         "image": null,
         "dietary": {
           "vegetarian": false,
@@ -1180,7 +1202,7 @@ export const menuData = [
         "id": "fish-3",
         "name": {
           "en": "Fish Cutlet",
-          "am": "Fish Cutlet"
+          "am": "ዓሣ ቅርጫት"
         },
         "description": {
           "en": "",
@@ -1202,7 +1224,7 @@ export const menuData = [
         "id": "fish-4",
         "name": {
           "en": "Fish Goulash",
-          "am": "Fish Goulash"
+          "am": "ዓሣ ጉላሽ"
         },
         "description": {
           "en": "",
@@ -1229,7 +1251,7 @@ export const menuData = [
         "id": "traditiona-ethiopian-food-1",
         "name": {
           "en": "Zelzel Tibes",
-          "am": "Zelzel Tibes"
+          "am": "ዘልዘል ጥብስ"
         },
         "description": {
           "en": "",
@@ -1251,13 +1273,13 @@ export const menuData = [
         "id": "traditiona-ethiopian-food-2",
         "name": {
           "en": "Chikina Tibes",
-          "am": "Chikina Tibes"
+          "am": "ቺክና ጥብስ"
         },
         "description": {
           "en": "",
           "am": ""
         },
-        "price": 943.36,
+        "price": 1179.2,
         "image": null,
         "dietary": {
           "vegetarian": false,
@@ -1273,13 +1295,13 @@ export const menuData = [
         "id": "traditiona-ethiopian-food-3",
         "name": {
           "en": "Gomen Besga",
-          "am": "Gomen Besga"
+          "am": "ጎመን በስጋ"
         },
         "description": {
           "en": "",
           "am": ""
         },
-        "price": 564.66,
+        "price": 658.77,
         "image": null,
         "dietary": {
           "vegetarian": false,
@@ -1295,7 +1317,7 @@ export const menuData = [
         "id": "traditiona-ethiopian-food-4",
         "name": {
           "en": "Tegabeno",
-          "am": "Tegabeno"
+          "am": "ጠጋቤኖ"
         },
         "description": {
           "en": "",
@@ -1317,13 +1339,13 @@ export const menuData = [
         "id": "traditiona-ethiopian-food-5",
         "name": {
           "en": "Bozena Shero",
-          "am": "Bozena Shero"
+          "am": "ቦዝና ሽሮ"
         },
         "description": {
           "en": "",
           "am": ""
         },
-        "price": 552.05,
+        "price": 613.38,
         "image": null,
         "dietary": {
           "vegetarian": false,
@@ -1339,7 +1361,7 @@ export const menuData = [
         "id": "traditiona-ethiopian-food-6",
         "name": {
           "en": "Romanat Traditional Compo Non-Fasting",
-          "am": "Romanat Traditional Compo Non-Fasting"
+          "am": "ሮማናት ባህላዊ ጥምር (የሥጋ)"
         },
         "description": {
           "en": "",
@@ -1361,7 +1383,7 @@ export const menuData = [
         "id": "traditiona-ethiopian-food-7",
         "name": {
           "en": "Suf Fitfet",
-          "am": "Suf Fitfet"
+          "am": "ሱፍ ፍትፍት"
         },
         "description": {
           "en": "",
@@ -1383,7 +1405,7 @@ export const menuData = [
         "id": "traditiona-ethiopian-food-8",
         "name": {
           "en": "Telba Fitfet",
-          "am": "Telba Fitfet"
+          "am": "ተልባ ፍትፍት"
         },
         "description": {
           "en": "",
@@ -1405,13 +1427,13 @@ export const menuData = [
         "id": "traditiona-ethiopian-food-9",
         "name": {
           "en": "Dulet",
-          "am": "Dulet"
+          "am": "ዱለት"
         },
         "description": {
           "en": "",
           "am": ""
         },
-        "price": 541.25,
+        "price": 960.34,
         "image": null,
         "dietary": {
           "vegetarian": false,
@@ -1427,7 +1449,7 @@ export const menuData = [
         "id": "traditiona-ethiopian-food-10",
         "name": {
           "en": "Beyaynte",
-          "am": "Beyaynte"
+          "am": "በያይንቱ"
         },
         "description": {
           "en": "",
@@ -1449,7 +1471,7 @@ export const menuData = [
         "id": "traditiona-ethiopian-food-11",
         "name": {
           "en": "Half half",
-          "am": "Half half"
+          "am": "ግማሽ ግማሽ"
         },
         "description": {
           "en": "",
@@ -1476,7 +1498,7 @@ export const menuData = [
         "id": "salad-1",
         "name": {
           "en": "Chicken Salad",
-          "am": "Chicken Salad"
+          "am": "ዶሮ ሰላጣ"
         },
         "description": {
           "en": "",
@@ -1498,7 +1520,7 @@ export const menuData = [
         "id": "salad-2",
         "name": {
           "en": "Habsha Salad",
-          "am": "Habsha Salad"
+          "am": "ሀብሻ ሰላጣ"
         },
         "description": {
           "en": "",
@@ -1520,7 +1542,7 @@ export const menuData = [
         "id": "salad-3",
         "name": {
           "en": "Tuna Salad",
-          "am": "Tuna Salad"
+          "am": "ቱና ሰላጣ"
         },
         "description": {
           "en": "",
@@ -1541,8 +1563,8 @@ export const menuData = [
       {
         "id": "salad-4",
         "name": {
-          "en": "cooked vegetable recipes",
-          "am": "cooked vegetable recipes"
+          "en": "cooked vegetable",
+          "am": "የበሰለ አትክልት"
         },
         "description": {
           "en": "",
@@ -1569,7 +1591,7 @@ export const menuData = [
         "id": "juice-1",
         "name": {
           "en": "Lemon Mint",
-          "am": "Lemon Mint"
+          "am": "ሎሚ እንጨት"
         },
         "description": {
           "en": "",
@@ -1591,7 +1613,7 @@ export const menuData = [
         "id": "juice-2",
         "name": {
           "en": "Papaya",
-          "am": "Papaya"
+          "am": "ፓፓያ"
         },
         "description": {
           "en": "",
@@ -1613,7 +1635,7 @@ export const menuData = [
         "id": "juice-3",
         "name": {
           "en": "Pineapple",
-          "am": "Pineapple"
+          "am": "አናናስ"
         },
         "description": {
           "en": "",
@@ -1635,7 +1657,7 @@ export const menuData = [
         "id": "juice-4",
         "name": {
           "en": "Papaya with Talba",
-          "am": "Papaya with Talba"
+          "am": "ፓፓያ ከተልባ ጋር"
         },
         "description": {
           "en": "",
@@ -1657,7 +1679,7 @@ export const menuData = [
         "id": "juice-5",
         "name": {
           "en": "Avocado",
-          "am": "Avocado"
+          "am": "አቮካዶ"
         },
         "description": {
           "en": "",
@@ -1679,7 +1701,7 @@ export const menuData = [
         "id": "juice-6",
         "name": {
           "en": "Avocado with Talba",
-          "am": "Avocado with Talba"
+          "am": "አቮካዶ ከተልባ ጋር"
         },
         "description": {
           "en": "",
@@ -1701,7 +1723,7 @@ export const menuData = [
         "id": "juice-7",
         "name": {
           "en": "Strawberry",
-          "am": "Strawberry"
+          "am": "ስትሮቤሪ"
         },
         "description": {
           "en": "",
@@ -1723,7 +1745,7 @@ export const menuData = [
         "id": "juice-8",
         "name": {
           "en": "Watermelon",
-          "am": "Watermelon"
+          "am": "ሐብሐብ"
         },
         "description": {
           "en": "",
@@ -1745,7 +1767,7 @@ export const menuData = [
         "id": "juice-9",
         "name": {
           "en": "Banana Milk Shake",
-          "am": "Banana Milk Shake"
+          "am": "ሙዝ ማይልክ ሼክ"
         },
         "description": {
           "en": "",
@@ -1767,7 +1789,7 @@ export const menuData = [
         "id": "juice-10",
         "name": {
           "en": "Carrot Ginger",
-          "am": "Carrot Ginger"
+          "am": "ካሮት ዝንጅብል"
         },
         "description": {
           "en": "",
@@ -1789,7 +1811,7 @@ export const menuData = [
         "id": "juice-11",
         "name": {
           "en": "Strawberry Milk Shake",
-          "am": "Strawberry Milk Shake"
+          "am": "ስትሮቤሪ ማይልክ ሼክ"
         },
         "description": {
           "en": "",
@@ -1811,7 +1833,7 @@ export const menuData = [
         "id": "juice-12",
         "name": {
           "en": "Banana Strawberry Smooth",
-          "am": "Banana Strawberry Smooth"
+          "am": "ሙዝ ስትሮቤሪ ስሙዝ"
         },
         "description": {
           "en": "",
@@ -1833,7 +1855,7 @@ export const menuData = [
         "id": "juice-13",
         "name": {
           "en": "Banana Chocolate Smooth",
-          "am": "Banana Chocolate Smooth"
+          "am": "ሙዝ ቸኮሌት ስሙዝ"
         },
         "description": {
           "en": "",
@@ -1855,7 +1877,7 @@ export const menuData = [
         "id": "juice-14",
         "name": {
           "en": "Papaya Smooth",
-          "am": "Papaya Smooth"
+          "am": "ፓፓያ ስሙዝ"
         },
         "description": {
           "en": "",
@@ -1882,7 +1904,7 @@ export const menuData = [
         "id": "yogurt-1",
         "name": {
           "en": "Yogurt",
-          "am": "Yogurt"
+          "am": "እርጎ"
         },
         "description": {
           "en": "",
@@ -1904,7 +1926,7 @@ export const menuData = [
         "id": "yogurt-2",
         "name": {
           "en": "Yogurt with Honey",
-          "am": "Yogurt with Honey"
+          "am": "እርጎ ከማር ጋር"
         },
         "description": {
           "en": "",
@@ -1926,7 +1948,7 @@ export const menuData = [
         "id": "yogurt-3",
         "name": {
           "en": "Yogurt with Strawberry Syrup",
-          "am": "Yogurt with Strawberry Syrup"
+          "am": "እርጎ ከስትሮቤሪ ሽሮፕ ጋር"
         },
         "description": {
           "en": "",
@@ -1948,7 +1970,7 @@ export const menuData = [
         "id": "yogurt-4",
         "name": {
           "en": "Yogurt with Chocolate Syrup",
-          "am": "Yogurt with Chocolate Syrup"
+          "am": "እርጎ ከቸኮሌት ሽሮፕ ጋር"
         },
         "description": {
           "en": "",
@@ -1970,7 +1992,7 @@ export const menuData = [
         "id": "yogurt-5",
         "name": {
           "en": "Romanat Special Yogurt",
-          "am": "Romanat Special Yogurt"
+          "am": "ሮማናት ልዩ እርጎ"
         },
         "description": {
           "en": "",
@@ -1997,7 +2019,7 @@ export const menuData = [
         "id": "cake-1",
         "name": {
           "en": "Lemon Pay",
-          "am": "Lemon Pay"
+          "am": "ሎሚ ፓይ"
         },
         "description": {
           "en": "",
@@ -2019,7 +2041,7 @@ export const menuData = [
         "id": "cake-2",
         "name": {
           "en": "Orange Cake",
-          "am": "Orange Cake"
+          "am": "ብርቱካን ኬክ"
         },
         "description": {
           "en": "",
@@ -2041,7 +2063,7 @@ export const menuData = [
         "id": "cake-3",
         "name": {
           "en": "Milifoni Cake",
-          "am": "Milifoni Cake"
+          "am": "ሚሊፎኒ ኬክ"
         },
         "description": {
           "en": "",
@@ -2063,7 +2085,7 @@ export const menuData = [
         "id": "cake-4",
         "name": {
           "en": "Fruit Tart",
-          "am": "Fruit Tart"
+          "am": "ፍራፍሬ ታርት"
         },
         "description": {
           "en": "",
@@ -2085,7 +2107,7 @@ export const menuData = [
         "id": "cake-5",
         "name": {
           "en": "Black Forest Cake",
-          "am": "Black Forest Cake"
+          "am": "ብላክ ፎረስት ኬክ"
         },
         "description": {
           "en": "",
@@ -2107,7 +2129,7 @@ export const menuData = [
         "id": "cake-6",
         "name": {
           "en": "Chocolate Croissant",
-          "am": "Chocolate Croissant"
+          "am": "ቸኮሌት ክሮይሰንት"
         },
         "description": {
           "en": "",
@@ -2129,7 +2151,7 @@ export const menuData = [
         "id": "cake-7",
         "name": {
           "en": "Chocolate Tart",
-          "am": "Chocolate Tart"
+          "am": "ቸኮሌት ታርት"
         },
         "description": {
           "en": "",
@@ -2151,7 +2173,7 @@ export const menuData = [
         "id": "cake-8",
         "name": {
           "en": "Croissant",
-          "am": "Croissant"
+          "am": "ክሮይሰንት"
         },
         "description": {
           "en": "",
@@ -2173,7 +2195,7 @@ export const menuData = [
         "id": "cake-9",
         "name": {
           "en": "Cinnamon Roll Cake",
-          "am": "Cinnamon Roll Cake"
+          "am": "ሲናሞን ሮል ኬክ"
         },
         "description": {
           "en": "",
@@ -2195,7 +2217,7 @@ export const menuData = [
         "id": "cake-10",
         "name": {
           "en": "Opera",
-          "am": "Opera"
+          "am": "ኦፔራ"
         },
         "description": {
           "en": "",
@@ -2217,7 +2239,7 @@ export const menuData = [
         "id": "cake-11",
         "name": {
           "en": "Classic Coffee Cake",
-          "am": "Classic Coffee Cake"
+          "am": "ክላሲክ ቡና ኬክ"
         },
         "description": {
           "en": "",
@@ -2239,7 +2261,7 @@ export const menuData = [
         "id": "cake-12",
         "name": {
           "en": "Chocolate Cake",
-          "am": "Chocolate Cake"
+          "am": "ቸኮሌት ኬክ"
         },
         "description": {
           "en": "",
@@ -2261,7 +2283,7 @@ export const menuData = [
         "id": "cake-13",
         "name": {
           "en": "English Cake",
-          "am": "English Cake"
+          "am": "እንግሊዝ ኬክ"
         },
         "description": {
           "en": "",
@@ -2283,7 +2305,7 @@ export const menuData = [
         "id": "cake-14",
         "name": {
           "en": "Banana Cake",
-          "am": "Banana Cake"
+          "am": "ሙዝ ኬክ"
         },
         "description": {
           "en": "",
@@ -2305,7 +2327,7 @@ export const menuData = [
         "id": "cake-15",
         "name": {
           "en": "Chocolate Paw",
-          "am": "Chocolate Paw"
+          "am": "ቸኮሌት ፓው"
         },
         "description": {
           "en": "",
@@ -2332,7 +2354,7 @@ export const menuData = [
         "id": "hot-drink-1",
         "name": {
           "en": "Lemon Tea",
-          "am": "Lemon Tea"
+          "am": "ሎሚ ሻይ"
         },
         "description": {
           "en": "",
@@ -2354,7 +2376,7 @@ export const menuData = [
         "id": "hot-drink-2",
         "name": {
           "en": "Hot Chocolate",
-          "am": "Hot Chocolate"
+          "am": "ሙቅ ቸኮሌት"
         },
         "description": {
           "en": "",
@@ -2376,7 +2398,7 @@ export const menuData = [
         "id": "hot-drink-3",
         "name": {
           "en": "Ginger Tea",
-          "am": "Ginger Tea"
+          "am": "ዝንጅብል ሻይ"
         },
         "description": {
           "en": "",
@@ -2398,7 +2420,7 @@ export const menuData = [
         "id": "hot-drink-4",
         "name": {
           "en": "Fasting Macchiato",
-          "am": "Fasting Macchiato"
+          "am": "የጾም ማኪያቶ"
         },
         "description": {
           "en": "",
@@ -2420,7 +2442,7 @@ export const menuData = [
         "id": "hot-drink-5",
         "name": {
           "en": "Special Tea",
-          "am": "Special Tea"
+          "am": "ልዩ ሻይ"
         },
         "description": {
           "en": "",
@@ -2442,7 +2464,7 @@ export const menuData = [
         "id": "hot-drink-6",
         "name": {
           "en": "Espresso Single",
-          "am": "Espresso Single"
+          "am": "ኤስፕሬሶ ነጠላ"
         },
         "description": {
           "en": "",
@@ -2464,7 +2486,7 @@ export const menuData = [
         "id": "hot-drink-7",
         "name": {
           "en": "Cappuccino",
-          "am": "Cappuccino"
+          "am": "ካፑቺኖ"
         },
         "description": {
           "en": "",
@@ -2486,7 +2508,7 @@ export const menuData = [
         "id": "hot-drink-8",
         "name": {
           "en": "Tea",
-          "am": "Tea"
+          "am": "ሻይ"
         },
         "description": {
           "en": "",
@@ -2508,7 +2530,7 @@ export const menuData = [
         "id": "hot-drink-9",
         "name": {
           "en": "Tea with Coffee",
-          "am": "Tea with Coffee"
+          "am": "ሻይ ከቡና ጋር"
         },
         "description": {
           "en": "",
@@ -2530,7 +2552,7 @@ export const menuData = [
         "id": "hot-drink-10",
         "name": {
           "en": "Caramel Latte",
-          "am": "Caramel Latte"
+          "am": "ካራሜል ላቴ"
         },
         "description": {
           "en": "",
@@ -2557,7 +2579,7 @@ export const menuData = [
         "id": "soft-drink-1",
         "name": {
           "en": "Soft Drink",
-          "am": "Soft Drink"
+          "am": "ለስላሳ መጠጥ"
         },
         "description": {
           "en": "",
@@ -2579,7 +2601,7 @@ export const menuData = [
         "id": "soft-drink-2",
         "name": {
           "en": "water 1/2",
-          "am": "water 1/2"
+          "am": "ውሃ ፩/፪"
         },
         "description": {
           "en": "",
@@ -2601,7 +2623,7 @@ export const menuData = [
         "id": "soft-drink-3",
         "name": {
           "en": "Ambo Water",
-          "am": "Ambo Water"
+          "am": "አምቦ ውሃ"
         },
         "description": {
           "en": "",
@@ -2623,7 +2645,7 @@ export const menuData = [
         "id": "soft-drink-4",
         "name": {
           "en": "Beer",
-          "am": "Beer"
+          "am": "ቢራ"
         },
         "description": {
           "en": "",
@@ -2645,7 +2667,7 @@ export const menuData = [
         "id": "soft-drink-5",
         "name": {
           "en": "Beer Arada",
-          "am": "Beer Arada"
+          "am": "አራዳ ቢራ"
         },
         "description": {
           "en": "",
@@ -2667,7 +2689,7 @@ export const menuData = [
         "id": "soft-drink-6",
         "name": {
           "en": "beers Heineken",
-          "am": "beers Heineken"
+          "am": "ሃይኔከን ቢራ"
         },
         "description": {
           "en": "",
@@ -2694,7 +2716,7 @@ export const menuData = [
         "id": "ice-drink-1",
         "name": {
           "en": "Ice strawberry mojito",
-          "am": "Ice strawberry mojito"
+          "am": "በረዶ ስትሮቤሪ ሞጂቶ"
         },
         "description": {
           "en": "",
@@ -2716,7 +2738,7 @@ export const menuData = [
         "id": "ice-drink-2",
         "name": {
           "en": "iced hibiscus mojito",
-          "am": "iced hibiscus mojito"
+          "am": "በረዶ ሂቢስከስ ሞጂቶ"
         },
         "description": {
           "en": "",
@@ -2738,7 +2760,7 @@ export const menuData = [
         "id": "ice-drink-3",
         "name": {
           "en": "iced pineapple mojito",
-          "am": "iced pineapple mojito"
+          "am": "በረዶ አናናስ ሞጂቶ"
         },
         "description": {
           "en": "",
@@ -2760,7 +2782,7 @@ export const menuData = [
         "id": "ice-drink-4",
         "name": {
           "en": "iced watermelon mojito",
-          "am": "iced watermelon mojito"
+          "am": "በረዶ ሐብሐብ ሞጂቶ"
         },
         "description": {
           "en": "",
@@ -2782,7 +2804,7 @@ export const menuData = [
         "id": "ice-drink-5",
         "name": {
           "en": "iced ginger and lemon mojito",
-          "am": "iced ginger and lemon mojito"
+          "am": "በረዶ ዝንጅብል እና ሎሚ ሞጂቶ"
         },
         "description": {
           "en": "",
@@ -2804,7 +2826,7 @@ export const menuData = [
         "id": "ice-drink-6",
         "name": {
           "en": "iced caramel latte",
-          "am": "iced caramel latte"
+          "am": "በረዶ ካራሜል ላቴ"
         },
         "description": {
           "en": "",
@@ -2826,7 +2848,7 @@ export const menuData = [
         "id": "ice-drink-7",
         "name": {
           "en": "iced latte chocolate",
-          "am": "iced latte chocolate"
+          "am": "በረዶ ላቴ ቸኮሌት"
         },
         "description": {
           "en": "",
@@ -2853,7 +2875,7 @@ export const menuData = [
         "id": "soup-1",
         "name": {
           "en": "Tomato Soup",
-          "am": "Tomato Soup"
+          "am": "ቲማቲም ሾርባ"
         },
         "description": {
           "en": "",
@@ -2875,7 +2897,7 @@ export const menuData = [
         "id": "soup-2",
         "name": {
           "en": "Oats soup",
-          "am": "Oats soup"
+          "am": "ኦትስ ሾርባ"
         },
         "description": {
           "en": "",
@@ -2897,7 +2919,7 @@ export const menuData = [
         "id": "soup-3",
         "name": {
           "en": "Vegetable Soup",
-          "am": "Vegetable Soup"
+          "am": "አትክልት ሾርባ"
         },
         "description": {
           "en": "",
@@ -2919,7 +2941,7 @@ export const menuData = [
         "id": "soup-4",
         "name": {
           "en": "Chicken Soup",
-          "am": "Chicken Soup"
+          "am": "ዶሮ ሾርባ"
         },
         "description": {
           "en": "",
@@ -2941,7 +2963,7 @@ export const menuData = [
         "id": "soup-5",
         "name": {
           "en": "Fish Soup",
-          "am": "Fish Soup"
+          "am": "ዓሣ ሾርባ"
         },
         "description": {
           "en": "",
