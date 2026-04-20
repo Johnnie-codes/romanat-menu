@@ -1,0 +1,108 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-brand-bg text-brand-charcoal antialiased;
+    font-family: 'Inter', system-ui, sans-serif;
+  }
+}
+
+@layer components {
+  /* Food icon background - light version */
+  .food-bg::before {
+    content: '🍕 🍔 🥗 🍝 🥩 ☕ 🍰 🥤 🍳 🥐 🧁 🥙 🌮 🍣 🥘 🍜 🥪 🍩 🧆 🫕 🥧 🍗 🌯 🥛 🍞 🧀 🥚 🫖 🍹 🍕 🍔 🥗 🍝 🥩 ☕ 🍰 🥤 🍳 🥐 🧁 🥙 🌮 🍣 🥘 🍜 🥪 🍩 🧆';
+    position: fixed;
+    top: 0;
+    left: -50%;
+    right: -50%;
+    bottom: 0;
+    font-size: 2.5rem;
+    line-height: 4rem;
+    letter-spacing: 2rem;
+    word-spacing: 1.5rem;
+    opacity: 0.04;
+    pointer-events: none;
+    z-index: 0;
+    white-space: normal;
+    word-break: break-all;
+    transform: rotate(-15deg) scale(1.5);
+  }
+
+  /* Section divider */
+  .section-divider {
+    height: 1px;
+    background: linear-gradient(to right, transparent, rgba(196, 154, 108, 0.3), transparent);
+  }
+
+  /* Category card */
+  .category-card {
+    @apply bg-white rounded-3xl p-6 transition-all duration-300 cursor-pointer;
+    border: 1px solid rgba(196, 154, 108, 0.12);
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.04);
+  }
+  .category-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 12px 40px rgba(196, 154, 108, 0.15);
+    border-color: rgba(196, 154, 108, 0.3);
+  }
+  .category-card:active {
+    transform: translateY(-1px);
+  }
+
+  /* Menu item row */
+  .menu-item-row {
+    @apply py-4 transition-colors duration-200;
+    border-bottom: 1px solid rgba(196, 154, 108, 0.1);
+  }
+  .menu-item-row:last-child {
+    border-bottom: none;
+  }
+
+  /* Price text */
+  .price-text {
+    @apply font-bold text-brand-gold-dark whitespace-nowrap;
+  }
+
+  /* Gold underline decoration */
+  .gold-line {
+    width: 40px;
+    height: 3px;
+    border-radius: 2px;
+    background: linear-gradient(135deg, #C49A6C, #D4A574);
+  }
+}
+
+@layer utilities {
+  .no-scrollbar::-webkit-scrollbar { display: none; }
+  .no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+}
+
+/* Page transition */
+.page-enter-active { animation: pageIn 0.35s ease; }
+.page-leave-active { animation: pageOut 0.25s ease; }
+
+@keyframes pageIn {
+  from { opacity: 0; transform: translateX(30px); }
+  to { opacity: 1; transform: translateX(0); }
+}
+@keyframes pageOut {
+  from { opacity: 1; transform: translateX(0); }
+  to { opacity: 0; transform: translateX(-30px); }
+}
+
+/* Fade */
+.fade-enter-active, .fade-leave-active { transition: opacity 0.25s ease; }
+.fade-enter-from, .fade-leave-to { opacity: 0; }
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
