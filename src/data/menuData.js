@@ -1519,7 +1519,7 @@ export const menuData = [
       {
         "id": "salad-2",
         "name": {
-          "en": "Habsha Salad",
+          "en": "Habesha  Salad",
           "am": "ሀብሻ ሰላጣ"
         },
         "description": {
@@ -2018,7 +2018,7 @@ export const menuData = [
       {
         "id": "cake-1",
         "name": {
-          "en": "Lemon Pay",
+          "en": "Lemon Pie",
           "am": "ሎሚ ፓይ"
         },
         "description": {
@@ -2666,7 +2666,7 @@ export const menuData = [
       {
         "id": "soft-drink-5",
         "name": {
-          "en": "Beer Arada",
+          "en": "Arada spritzer",
           "am": "አራዳ ቢራ"
         },
         "description": {
@@ -2688,7 +2688,7 @@ export const menuData = [
       {
         "id": "soft-drink-6",
         "name": {
-          "en": "beers Heineken",
+          "en": "Heineken beers",
           "am": "ሃይኔከን ቢራ"
         },
         "description": {
